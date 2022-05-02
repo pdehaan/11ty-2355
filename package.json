@@ -1,17 +1,25 @@
 {
   "name": "11ty-2355",
-  "version": "1.0.0",
   "description": "",
-  "main": ".eleventy.js",
-  "scripts": {
-    "build": "eleventy",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "version": "1.0.0",
   "author": "Peter deHaan <peter@deseloper.com>",
-  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/pdehaan/11ty-2355/issues"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1",
     "cheerio": "^1.0.0-rc.10"
+  },
+  "homepage": "https://github.com/pdehaan/11ty-2355#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": ".eleventy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/11ty-2355.git"
+  },
+  "scripts": {
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
