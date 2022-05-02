@@ -1,5 +1,5 @@
 ---
-title: HoMe PaGe
+title: BlOg PaGe
 layout: base.liquid
 ---
 
